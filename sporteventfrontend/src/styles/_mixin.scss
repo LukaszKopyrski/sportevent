@@ -1,0 +1,9 @@
+@import './_colors.scss';
+
+@mixin fortest{
+    color: $header-color;
+    font-size: 32px;
+    letter-spacing: 21px;
+    text-decoration: underline;
+    text-align: center;
+}
